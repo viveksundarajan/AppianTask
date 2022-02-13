@@ -1,0 +1,4 @@
+org/example/pages/LoginPage.class
+org/example/pages/BasePage.class
+org/example/utilities/BaseInit.class
+org/example/pages/Page.class

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-13T21:05:12 CET" name="Suite" finished-at="2022-02-13T21:05:21 CET" duration-ms="9233">
+    <groups>
+    </groups>
+    <test started-at="2022-02-13T21:05:12 CET" name="Test" finished-at="2022-02-13T21:05:21 CET" duration-ms="9233">
+      <class name="org.example.LoginTest">
+        <test-method is-config="true" signature="invokeBrowser(java.lang.String)[pri:0, instance:org.example.LoginTest@59474f18]" started-at="2022-02-13T21:05:12 CET" name="invokeBrowser" finished-at="2022-02-13T21:05:15 CET" duration-ms="2782" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+        <test-method signature="verifyPageTitle()[pri:1, instance:org.example.LoginTest@59474f18]" started-at="2022-02-13T21:05:15 CET" name="verifyPageTitle" finished-at="2022-02-13T21:05:15 CET" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPageTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.example.LoginTest@59474f18]" started-at="2022-02-13T21:05:15 CET" name="tearDown" finished-at="2022-02-13T21:05:15 CET" duration-ms="93" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="invokeBrowser(java.lang.String)[pri:0, instance:org.example.LoginTest@59474f18]" started-at="2022-02-13T21:05:15 CET" name="invokeBrowser" finished-at="2022-02-13T21:05:17 CET" duration-ms="2235" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+        <test-method signature="verifyInvalidLogin()[pri:2, instance:org.example.LoginTest@59474f18]" started-at="2022-02-13T21:05:17 CET" name="verifyInvalidLogin" finished-at="2022-02-13T21:05:21 CET" duration-ms="3936" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInvalidLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.example.LoginTest@59474f18]" started-at="2022-02-13T21:05:21 CET" name="tearDown" finished-at="2022-02-13T21:05:21 CET" duration-ms="139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.example.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
