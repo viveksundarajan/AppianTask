@@ -33,7 +33,7 @@ get the absolute path of index.html and enter the url in any desired browser to 
   target -> coverage-reports -> index.html
   
   
-  Login functionality Test cases to be automate:
+**  Login functionality Test cases to be automate:**
   
   Valid username and password and verify login success 
   invalid username and invalid password and verify login fails 
